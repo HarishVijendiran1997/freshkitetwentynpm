@@ -1,0 +1,28 @@
+{
+  "name": "freshkitetwenty",
+  "version": "0.0.1",
+  "description": "An NPM package solving 20 unique beginner programming problems.",
+  "keywords": [
+    "freshkite",
+    "programming",
+    "problems",
+    "javascript",
+    "coding"
+  ],
+  "homepage": "https://github.com/HarishVijendiran1997/freshkitetwentynpm#readme",
+  "bugs": {
+    "url": "https://github.com/HarishVijendiran1997/freshkitetwentynpm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarishVijendiran1997/freshkitetwentynpm.git"
+  },
+  "license": "MIT",
+  "author": "Harish Vijendiran",
+  "type": "module",
+  "module": "index.js",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
